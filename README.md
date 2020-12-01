@@ -1,4 +1,4 @@
-## The PyTorch implemention of our work on domain generalization: 
+## The PyTorch implementation of our work on domain generalization: 
 
 S. Zhao, M. Gong, T. Liu, H. Fu and D. Tao. Domain Generalization via Entropy Regularization. NeurIPS 2020. 
 
