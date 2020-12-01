@@ -24,7 +24,7 @@ S. Zhao, M. Gong, T. Liu, H. Fu and D. Tao. Domain Generalization via Entropy Re
 * Execute the following command to run (replace xxx with any one of the four datasets, such as art_painting):
 
     ```
-    python train_PACS.py --target xxx
+    python train.py --target xxx
     ````
 ### Citation
 ```
